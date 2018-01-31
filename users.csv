@@ -1,0 +1,2 @@
+login;password;firstname;lastname;mail;auth_source_id;mail_notification;notified_project_ids;must_change_passwd;generate_password
+pavel@stolica.khv.ru;;Павел;Кавецкий;pavel@stolica.khv.ru;;only_my_events;;True;True
